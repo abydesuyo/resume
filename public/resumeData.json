@@ -1,25 +1,25 @@
 {
   "main": {
-    "name":"Tim Baker",
-    "occupation":"(Your Occupation Here)",
-    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "name":"Aby Arakkal",
+    "occupation":"Fixed Income Technologist",
+    "description":"I provide Comprehensive solutions for both Front and Middle Office leveraging tools and platforms that form the vision and backbone of the Organisation",
     "image":"profilepic.jpg",
     "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "email": "aby.pzcrazy+fromwebsite@gmail.com",
+    "phone": "080-1234-5678",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street":"Toyosu",
+      "city":"Tokyo",
+      "state":"",
+      "zip": ""
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "website": "http://www.abyarakkal.com",
+    "resumedownload":"http://abyarakkal.com",
     "social":[
       {
         "name":"facebook",
-        "url":"http://facebook.com/tim.baker.906",
+        "url":"http://facebook.com/",
         "className":"fa fa-facebook"
       },
       {
@@ -29,27 +29,27 @@
       },
       {
         "name":"google-plus",
-        "url":"http://googleplus.com/tbakerx",
+        "url":"http://googleplus.com/aby.pzcrazy",
         "className":"fa fa-google-plus"
       },
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/aby.arakkal/",
         "className":"fa fa-linkedin"
       },
       {
         "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
+        "url":"http://instagram.com/",
         "className":"fa fa-instagram"
       },
       {
         "name":"github",
-        "url":"http://github.com/tbakerx",
+        "url":"http://github.com/abydesuyo",
         "className":"fa fa-github"
       },
       {
         "name":"skype",
-        "url":"http://skype.com",
+        "url":"http://skype.com/abdulqa",
         "className":"fa fa-skype"
       }
     ]
@@ -58,60 +58,76 @@
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Rajagiri Institute of Technology",
+        "degree":"Bachelor in Inforamtion Technology",
+        "graduated":"May 2005",
+        "description":"Learned a lot of tnew hings here, perseverence being the most impoartant one."
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
+        "school":"Al Ameen Public School",
+        "degree":"High School - Computer Science / Math",
+        "graduated":"May 2001",
         "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Bank of America",
+        "title":"Software Engineer",
+        "years":"March 2008 - Present",
+        "description":"Have done everything under the sky for Fixed Income Interest Rates Derivates Desk  across Front Office and Middle Office."
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Assyst International Pvt Ltd",
+        "title":"Software Engineer",
+        "years":"September 2006 - March 2008",
+        "description":"Started of as CRM Support and transitioned into Development. Later tansitioned into Web development and Flex Projects."
       }
     ],
     "skills":[
       {
-        "name":"Git",
+        "name":"Unix Scripting",
         "level":"60%"
       },
       {
-        "name":"Illustrator",
-        "level":"55%"
+        "name":"Sybase/SQL",
+        "level":"70%"
       },
       {
-        "name":"ReactJs",
-        "level":"50%"
+        "name":"Perl",
+        "level":"60%"
       },
       {
-        "name":"CSS",
+        "name":"Python",
+        "level":"70%"
+      },
+      {
+        "name":"HTML",
+        "level":"70%"
+      },
+      {
+        "name":"PHP",
+        "level":"40%"
+      },
+      {
+        "name":"Java Script",
+        "level":"40%"
+      },
+      {
+        "name":"Application Engineering",
+        "level":"80%"
+      },
+      {
+        "name":"Application Support",
+        "level":"80%"
+      },
+      {
+        "name":"Solution Architecht",
+        "level":"70%"
+      },
+      {
+        "name":"Hack n Slash",
         "level":"90%"
-      },
-      {
-        "name":"HTML5",
-        "level":"80%"
-      },
-      {
-        "name":"VueJs",
-        "level":"50%"
-      },
-      {
-        "name":"MongoDB",
-        "level":"80%"
       }
     ]
   },
@@ -152,12 +168,12 @@
   "testimonials":{
     "testimonials":[
       {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user":"Kareem Abdul Jabbar"
+        "text":"Abdul has a great vision and energy for applications support and control. In depth knowledge. Great communicator. Pragmatic and disciplined. Helps to build and maintain high value support relationships front to back.",
+        "user":"Chris Allen"
       },
       {
-        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user":"Steve Wozniak... impersonator"
+        "text":"I have known Aby since our school days and have always considered his infectiously cheerful personality as his biggest strength. We literally started learning 'a-b-c's of our programming life together and I always consider the hobbyist programs we tried back in Panampilly Nagar days as ideal starts I had in my career. Above all, he is a great friend to be with and you could rely on him at any time.",
+        "user":"Anu Viswan"
       }
     ]
   }
