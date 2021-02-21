@@ -134,34 +134,28 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"Wedding Website",
+        "category":"JS and Node base Wedding Website",
+        "image":"wedding-website.jpg",
+        "url":"https://alinkawedsabsi.com"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Fitbit Digital Clockface",
+        "category":"Tinkering with Fitbit Clockface - Digital",
+        "image":"fitbit-digital.jpg",
+        "url":"https://gallery.fitbit.com/details/282b16a2-7ae9-4768-a0a0-567932dfa207"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "title":"Fitbit Pure Stats Clockface",
+        "category":"Tinkering with Fitbit Clockface - Stats Intense",
+        "image":"fitbit-digital-stats.jpg",
+        "url":"https://gallery.fitbit.com/details/1fa1b6a3-de9d-4a43-a076-e68a58375fef"
       },
       {
         "title":"Resume Website",
         "category":"A React based resume website template",
         "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "url":"http://www.abyarakkal.com"
       }
     ]
   },
