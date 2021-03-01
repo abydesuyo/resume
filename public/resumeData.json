@@ -15,17 +15,22 @@
       "zip": ""
     },
     "website": "http://www.abyarakkal.com",
-    "resumedownload":"http://abyarakkal.com",
+    "resumedownload":"../docs/Abdul_Arakkal_Aby_Resume.pdf",
     "social":[
       {
-        "name":"facebook",
-        "url":"http://facebook.com/",
-        "className":"fa fa-facebook"
+        "name":"github",
+        "url":"http://github.com/abydesuyo",
+        "className":"fa fa-github"
       },
       {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
+        "name":"medium",
+        "url":"https://medium.com/@aby.pzcrazy",
+        "className":"fa fa-bookmark"
+      },
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/aby.pzcrazy",
+        "className":"fa fa-facebook"
       },
       {
         "name":"google-plus",
@@ -34,18 +39,13 @@
       },
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/aby.arakkal/",
+        "url":"https://www.linkedin.com/in/abyarakkal/",
         "className":"fa fa-linkedin"
       },
       {
         "name":"instagram",
         "url":"http://instagram.com/",
         "className":"fa fa-instagram"
-      },
-      {
-        "name":"github",
-        "url":"http://github.com/abydesuyo",
-        "className":"fa fa-github"
       },
       {
         "name":"skype",
