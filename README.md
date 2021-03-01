@@ -21,9 +21,10 @@ Next, you will want to replace the images, and fonts if you like, with your own.
 To populate the website with all of your own data, open the public/resumeData.json file and simply replace the data in there with your own. Images for the porfolio section are to be put in the public/images/portfolio folder.
 ### 6. Make any styling changes you would like
 Of course, all of the code is there and nothing is hidden from you so if you would like to make any other styling changes, feel free!
-### 7. Enjoy your new Resume Website
+### 7. Update Reference to fontawesome with your own URL
+Font awesome 5 is needs you to sign up for an account to be able it. So, sign up for a free account to get a custom link and then update that in the head / scripts section.
+### 8. Enjoy your new Resume Website
 When you're all done, run `npm start` again and you'll see your new personal resume website! Congratulations!
-
 
 ## Credits
 ##### Tim Baker
