@@ -25,7 +25,7 @@
       {
         "name":"medium",
         "url":"https://medium.com/@aby.pzcrazy",
-        "className":"fa fa-bookmark"
+        "className":"fab fa-medium-m"
       },
       {
         "name":"linkedin",
@@ -38,14 +38,19 @@
         "className":"fa fa-skype"
       },
       {
+        "name":"strava",
+        "url":"https://www.strava.com/athletes/55823361",
+        "className":"fab fa-strava"
+      },
+      {
+        "name":"google",
+        "url":"https://maps.app.goo.gl/dN5TeQKNtpZqqozw7",
+        "className":"fas fa-map-marker-alt"
+      },
+      {
         "name":"facebook",
         "url":"https://www.facebook.com/aby.pzcrazy",
         "className":"fa fa-facebook"
-      },
-      {
-        "name":"strava",
-        "url":"https://www.strava.com/athletes/55823361",
-        "className":"fa fa-rss"
       }
     ]
   },
