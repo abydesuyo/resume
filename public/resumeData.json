@@ -28,29 +28,24 @@
         "className":"fa fa-bookmark"
       },
       {
-        "name":"facebook",
-        "url":"https://www.facebook.com/aby.pzcrazy",
-        "className":"fa fa-facebook"
-      },
-      {
-        "name":"google-plus",
-        "url":"http://googleplus.com/aby.pzcrazy",
-        "className":"fa fa-google-plus"
-      },
-      {
         "name":"linkedin",
         "url":"https://www.linkedin.com/in/abyarakkal/",
         "className":"fa fa-linkedin"
       },
       {
-        "name":"instagram",
-        "url":"http://instagram.com/",
-        "className":"fa fa-instagram"
+        "name":"skype",
+        "url":"https://join.skype.com/invite/n6bx04Azv9AX",
+        "className":"fa fa-skype"
       },
       {
-        "name":"skype",
-        "url":"http://skype.com/abdulqa",
-        "className":"fa fa-skype"
+        "name":"facebook",
+        "url":"https://www.facebook.com/aby.pzcrazy",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"strava",
+        "url":"https://www.strava.com/athletes/55823361",
+        "className":"fa fa-rss"
       }
     ]
   },
