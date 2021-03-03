@@ -4,8 +4,8 @@
     "occupation":"Fixed Income Technologist",
     "description":"I provide Comprehensive solutions for both Front and Middle Office leveraging tools and platforms that form the vision and backbone of the Organisation",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "bio":"At core, I'm a tech enthusiast. I went from building PCs and making fun programs using Basic and C++ during my teenage years into an IT professional, and subsequently, an Investment Banking Technologist. Deep down I'm still a hacker at heart :)",
+    "contactmessage":"If you like what you see and would like to get to know more about me, feel free to reach out to me:",
     "email": "aby.pzcrazy+fromwebsite@gmail.com",
     "phone": "080-1234-5678",
     "address":{
@@ -55,21 +55,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
-    "education":[
-      {
-        "school":"Rajagiri Institute of Technology",
-        "degree":"Bachelor in Inforamtion Technology",
-        "graduated":"May 2005",
-        "description":"Learned a lot of tnew hings here, perseverence being the most impoartant one."
-      },
-      {
-        "school":"Al Ameen Public School",
-        "degree":"High School - Computer Science / Math",
-        "graduated":"May 2001",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
-      }
-    ],
+    "skillmessage":"From amusing colleagues at my Computer lab to this very day. I am developer by heart, but I found my Career doing Application Support. Apparemtly, I was a natural at it. But eventually, found my middle ground doing DevOps.",
     "work":[
       {
         "company":"Bank of America",
@@ -82,6 +68,20 @@
         "title":"Software Engineer",
         "years":"September 2006 - March 2008",
         "description":"Started of as CRM Support and transitioned into Development. Later tansitioned into Web development and Flex Projects."
+      }
+    ],
+    "education":[
+      {
+        "school":"Rajagiri Institute of Technology",
+        "degree":"Bachelor in Inforamtion Technology",
+        "graduated":"May 2005",
+        "description":"Learned a lot of tnew hings here, perseverence being the most impoartant one."
+      },
+      {
+        "school":"Al Ameen Public School",
+        "degree":"High School - Computer Science / Math",
+        "graduated":"May 2001",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
       }
     ],
     "skills":[
