@@ -26,7 +26,7 @@ Font awesome 5 is needs you to sign up for an account to be able it. So, sign up
 ### 8. Enjoy your new Resume Website
 When you're all done, run `npm start` again and you'll see your new personal resume website! Congratulations!
 
-## Credits
+## Credits to Original Author
 ##### Tim Baker
 <a href="https://github.com/tbakerx/react-resume-template">Resume Template</a>
 
