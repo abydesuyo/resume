@@ -2,7 +2,7 @@
   "main": {
     "name":"Aby Arakkal",
     "occupation":"Fixed Income Technologist",
-    "description":"I provide Comprehensive solutions for both Front and Middle Office leveraging tools and platforms that form the vision and backbone of the Organisation",
+    "description":"I provide Comprehensive solutions for both Front and Middle Office leveraging tools and platforms that form the vision and backbone of the Organization",
     "image":"profilepic.jpg",
     "bio":"At core, I'm a tech enthusiast. I went from building PCs and making fun programs using Basic and C++ during my teenage years into an IT professional, and subsequently, an Investment Banking Technologist. Deep down I'm still a hacker at heart :)",
     "contactmessage":"If you like what you see and would like to get to know more about me, feel free to reach out to me:",
@@ -15,7 +15,7 @@
       "zip": ""
     },
     "website": "http://www.abyarakkal.com",
-    "resumedownload":"../docs/Abdul_Arakkal_Aby_Resume.pdf",
+    "resumedownload":"/docs/Abdul_Arakkal_Aby_Resume.pdf",
     "social":[
       {
         "name":"github",
@@ -55,27 +55,27 @@
     ]
   },
   "resume":{
-    "skillmessage":"From amusing colleagues at my Computer lab to this very day. I am developer by heart, but I found my Career doing Application Support. Apparemtly, I was a natural at it. But eventually, found my middle ground doing DevOps.",
+    "skillmessage":"From amusing colleagues at my Computer lab to this very day. I am developer by heart, but I found my Career doing Application Support. Apparently, I was a natural at it. But eventually, found my middle ground doing DevOps.",
     "work":[
       {
         "company":"Bank of America",
         "title":"Software Engineer",
         "years":"March 2008 - Present",
-        "description":"Have done everything under the sky for Fixed Income Interest Rates Derivates Desk  across Front Office and Middle Office."
+        "description":"Have done everything under the sky for Fixed Income Interest Rates Derivatives Desk  across Front Office and Middle Office."
       },
       {
         "company":"Assyst International Pvt Ltd",
         "title":"Software Engineer",
         "years":"September 2006 - March 2008",
-        "description":"Started of as CRM Support and transitioned into Development. Later tansitioned into Web development and Flex Projects."
+        "description":"Started of as CRM Support and transitioned into Development. Later transitioned into Web development and Flex Projects."
       }
     ],
     "education":[
       {
         "school":"Rajagiri Institute of Technology",
-        "degree":"Bachelor in Inforamtion Technology",
+        "degree":"Bachelor in Information Technology",
         "graduated":"May 2005",
-        "description":"Learned a lot of tnew hings here, perseverence being the most impoartant one."
+        "description":"Learned a lot of new hings here, perseverance being the most important one."
       },
       {
         "school":"Al Ameen Public School",
@@ -122,7 +122,7 @@
         "level":"80%"
       },
       {
-        "name":"Solution Architecht",
+        "name":"Solution Architect",
         "level":"70%"
       },
       {
@@ -140,14 +140,14 @@
         "url":"https://alinkawedsabsi.com"
       },
       {
-        "title":"Fitbit Digital Clockface",
-        "category":"Tinkering with Fitbit Clockface - Digital",
+        "title":"Fitbit Digital Clock-face",
+        "category":"Tinkering with Fitbit Clock-face - Digital",
         "image":"fitbit-digital.jpg",
         "url":"https://gallery.fitbit.com/details/282b16a2-7ae9-4768-a0a0-567932dfa207"
       },
       {
-        "title":"Fitbit Pure Stats Clockface",
-        "category":"Tinkering with Fitbit Clockface - Stats Intense",
+        "title":"Fitbit Pure Stats Clock-face",
+        "category":"Tinkering with Fitbit Clock-face - Stats Intense",
         "image":"fitbit-digital-stats.jpg",
         "url":"https://gallery.fitbit.com/details/1fa1b6a3-de9d-4a43-a076-e68a58375fef"
       },
