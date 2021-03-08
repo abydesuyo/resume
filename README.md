@@ -1,6 +1,6 @@
 # React JS Resume Web App Template      
 ![ReactJS Resume Website Template](resume-screenshot.jpg?raw=true "ReactJS Resume Website Template")
-### <a href="https://react-resume-template.herokuapp.com/">LIVE DEMO</a> 
+### <a href="https://abydesuyo.github.io/resume/">LIVE DEMO</a> 
 
 ## Description
 This is a ReactJS based personal resume website template that I forked from Tim Baker's repo and customized for myself.
@@ -18,7 +18,7 @@ Once you have a React app up and running by following the steps in the above lin
 ### 4. Replace images and fonts
 Next, you will want to replace the images, and fonts if you like, with your own. All you have to do is replace the images at public/images/header-background.jpg, public/images/testimonials-bg.jpg and public/favicon.ico with your own. <em>YOU MUST KEEP THE SAME NAMES ON THE IMAGES.</em>  
 ### 5. Fill in your personal info
-To populate the website with all of your own data, open the public/resumeData.json file and simply replace the data in there with your own. Images for the porfolio section are to be put in the public/images/portfolio folder.
+To populate the website with all of your own data, open the public/resumeData.json file and simply replace the data in there with your own. Images for the portfolio section are to be put in the public/images/portfolio folder.
 ### 6. Make any styling changes you would like
 Of course, all of the code is there and nothing is hidden from you so if you would like to make any other styling changes, feel free!
 ### 7. Update Reference to fontawesome with your own URL
