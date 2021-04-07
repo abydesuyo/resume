@@ -51,6 +51,11 @@
         "name":"facebook",
         "url":"https://www.facebook.com/aby.pzcrazy",
         "className":"fa fa-facebook"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/absiintk/",
+        "className":"fa fa-instagram"
       }
     ]
   },
@@ -87,11 +92,11 @@
     "skills":[
       {
         "name":"Unix Scripting",
-        "level":"60%"
+        "level":"70%"
       },
       {
         "name":"Sybase/SQL",
-        "level":"70%"
+        "level":"80%"
       },
       {
         "name":"Perl",
@@ -103,15 +108,15 @@
       },
       {
         "name":"HTML",
-        "level":"70%"
+        "level":"60%"
       },
       {
         "name":"PHP",
-        "level":"40%"
+        "level":"60%"
       },
       {
         "name":"Java Script",
-        "level":"40%"
+        "level":"50%"
       },
       {
         "name":"Application Engineering",
@@ -119,14 +124,14 @@
       },
       {
         "name":"Application Support",
-        "level":"80%"
+        "level":"90%"
       },
       {
         "name":"Solution Architect",
         "level":"70%"
       },
       {
-        "name":"Hack n Slash",
+        "name":"Hacking n Tinkering",
         "level":"90%"
       }
     ]
